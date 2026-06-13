@@ -1,0 +1,23 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (NE JAMAIS publier !)
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
